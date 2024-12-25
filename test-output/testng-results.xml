@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-05T20:59:40 CST" name="Default suite" finished-at="2024-12-05T20:59:43 CST" duration-ms="3039">
+    <groups>
+    </groups>
+    <test started-at="2024-12-05T20:59:40 CST" name="Default test" finished-at="2024-12-05T20:59:43 CST" duration-ms="3039">
+      <class name="window_handling.GmailLoginTest">
+        <test-method signature="setup()[pri:0, instance:window_handling.GmailLoginTest@c8c12ac]" started-at="2024-12-05T20:59:40 CST" name="setup" finished-at="2024-12-05T20:59:43 CST" duration-ms="3015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- window_handling.GmailLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
